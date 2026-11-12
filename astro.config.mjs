@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Caronte12715.github.io',
+  site: 'https://XanderGuevara.github.io',
   base: '/landing-restaurante',
   integrations: [vue()],
   vite: {
